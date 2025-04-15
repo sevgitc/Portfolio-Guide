@@ -25,7 +25,7 @@ Welcome to my data and analytics portfolio! Here, I showcase selected projects f
 
 | Project Link | Area | Description | Libraries |
 |--------------|------|-------------|-----------|
-| 📊 [GS Stock Prediction](https://github.com/sevgitc/stock-prediction-gs) | Time-Series Forecasting | End-to-end project predicting Galatasaray stock prices using ARIMA, LSTM, Ridge, and Random Forest. Includes scraping, modeling, and R², MSE and MAE-based performance comparison. | pandas, scikit-learn, Keras, statsmodels, Selenium |
+| 📊 [GS Stock Prediction](https://github.com/sevgitc/Stock-Price-Prediction-Galatasaray) | Time-Series Forecasting | End-to-end project predicting Galatasaray stock prices using ARIMA, LSTM, Ridge, and Random Forest. Includes scraping, modeling, and R², MSE and MAE-based performance comparison. | pandas, scikit-learn, Keras, statsmodels, Selenium |
 
 
 
