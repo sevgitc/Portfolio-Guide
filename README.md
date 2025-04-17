@@ -44,7 +44,7 @@ Coming soon: Data visualization projects built using Power BI and Tableau.
 
 | Project | Platform | Tech Stack | Description | Key Features | My Role | 
 |---------|----------|------------|--------------|---------|-------------|
-| 📱 [PantryPro](https://github.com/sevgitc/PantryPro_Project) | Android | Java, Firebase, AWS, ML Kit, SQLite | A mobile app for managing food inventory, expiration alerts, recipe suggestions, and price tracking. Developed as a team project with full UI and backend integration. | Inventory tracking, price module, expiry notifications, recipe API | Android UI, web scraping & AWS integration, Firebase notifications, team lead |
+| 📱 [PantryPro](https://github.com/sevgitc/PantryPro) | Android | Java, Firebase, AWS, ML Kit, SQLite | A mobile app for managing food inventory, expiration alerts, recipe suggestions, and price tracking. Developed as a team project with full UI and backend integration. | Inventory tracking, price module, expiry notifications, recipe API | Android UI, web scraping & AWS integration, Firebase notifications, team lead |
 
 
 
